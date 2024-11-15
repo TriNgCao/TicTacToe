@@ -7,8 +7,8 @@
 
 ## Screen-shots
 * ModeWindow
-(https://github.com/TriNgCao/TicTacToe/blob/main/screenshots/ModeWindow.png)
+![Mode Window](https://github.com/TriNgCao/TicTacToe/blob/main/screenshots/ModeWindow.png)
 * MainWindow
-(https://github.com/TriNgCao/TicTacToe/blob/main/screenshots/MainWindow.png)
+![Main Window](https://github.com/TriNgCao/TicTacToe/blob/main/screenshots/MainWindow.png)
 
 #### &#169; 2024 TriZau
